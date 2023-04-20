@@ -1,2 +1,1 @@
-# sorting_algorithms
-for alx course
+# Sorting Algorithms
